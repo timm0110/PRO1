@@ -1,0 +1,8 @@
+D:\PRO1\AB\AB\bin\Debug\AB.exe.config
+D:\PRO1\AB\AB\bin\Debug\AB.exe
+D:\PRO1\AB\AB\bin\Debug\AB.pdb
+D:\PRO1\AB\AB\obj\Debug\AB.csproj.AssemblyReference.cache
+D:\PRO1\AB\AB\obj\Debug\AB.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\AB\AB\obj\Debug\AB.csproj.CoreCompileInputs.cache
+D:\PRO1\AB\AB\obj\Debug\AB.exe
+D:\PRO1\AB\AB\obj\Debug\AB.pdb
