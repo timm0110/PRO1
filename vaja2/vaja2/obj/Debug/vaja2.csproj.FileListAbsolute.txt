@@ -1,0 +1,8 @@
+D:\PRO1\vaja2\vaja2\bin\Debug\vaja2.exe.config
+D:\PRO1\vaja2\vaja2\bin\Debug\vaja2.exe
+D:\PRO1\vaja2\vaja2\bin\Debug\vaja2.pdb
+D:\PRO1\vaja2\vaja2\obj\Debug\vaja2.csproj.AssemblyReference.cache
+D:\PRO1\vaja2\vaja2\obj\Debug\vaja2.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\vaja2\vaja2\obj\Debug\vaja2.csproj.CoreCompileInputs.cache
+D:\PRO1\vaja2\vaja2\obj\Debug\vaja2.exe
+D:\PRO1\vaja2\vaja2\obj\Debug\vaja2.pdb
