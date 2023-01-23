@@ -1,0 +1,16 @@
+D:\PRO1\Marsovci\Marsovci\bin\Debug\Marsovci.exe.config
+D:\PRO1\Marsovci\Marsovci\bin\Debug\Marsovci.exe
+D:\PRO1\Marsovci\Marsovci\bin\Debug\Marsovci.pdb
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.csproj.AssemblyReference.cache
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\Marsovci\Marsovci\obj\Debug\MainWindow.g.cs
+D:\PRO1\Marsovci\Marsovci\obj\Debug\App.g.cs
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci_MarkupCompile.cache
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci_MarkupCompile.lref
+D:\PRO1\Marsovci\Marsovci\obj\Debug\MainWindow.baml
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.g.resources
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.Properties.Resources.resources
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.csproj.GenerateResource.cache
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.csproj.CoreCompileInputs.cache
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.exe
+D:\PRO1\Marsovci\Marsovci\obj\Debug\Marsovci.pdb
