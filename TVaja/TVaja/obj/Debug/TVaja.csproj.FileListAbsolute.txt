@@ -1,0 +1,8 @@
+D:\PRO1\TVaja\TVaja\bin\Debug\TVaja.exe.config
+D:\PRO1\TVaja\TVaja\bin\Debug\TVaja.exe
+D:\PRO1\TVaja\TVaja\bin\Debug\TVaja.pdb
+D:\PRO1\TVaja\TVaja\obj\Debug\TVaja.csproj.AssemblyReference.cache
+D:\PRO1\TVaja\TVaja\obj\Debug\TVaja.csproj.SuggestedBindingRedirects.cache
+D:\PRO1\TVaja\TVaja\obj\Debug\TVaja.csproj.CoreCompileInputs.cache
+D:\PRO1\TVaja\TVaja\obj\Debug\TVaja.exe
+D:\PRO1\TVaja\TVaja\obj\Debug\TVaja.pdb

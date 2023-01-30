@@ -1,0 +1,87 @@
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\MCV APLIKACIJA.dll.config
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\MCV APLIKACIJA.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\MCV APLIKACIJA.pdb
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\csc.exe
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\csc.exe.config
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\csc.rsp
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\csi.exe
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\csi.exe.config
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\csi.rsp
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.AppContext.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Collections.Immutable.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Console.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Globalization.Calendars.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.IO.Compression.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.IO.FileSystem.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Net.Http.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Net.Sockets.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Reflection.Metadata.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.ValueTuple.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Xml.XPath.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\vbc.exe
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\vbc.exe.config
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\vbc.rsp
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\VBCSCompiler.exe
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\roslyn\VBCSCompiler.exe.config
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Antlr3.Runtime.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Microsoft.Web.Infrastructure.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Newtonsoft.Json.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Helpers.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Mvc.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Optimization.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Razor.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.WebPages.Deployment.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.WebPages.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.WebPages.Razor.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\WebGrease.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Helpers.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Mvc.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Optimization.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.Razor.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.WebPages.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.WebPages.Deployment.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\System.Web.WebPages.Razor.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Newtonsoft.Json.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Antlr3.Runtime.pdb
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV APLIKACIJA.csproj.AssemblyReference.cache
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV APLIKACIJA.csproj.CoreCompileInputs.cache
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV APLIKACIJA.csproj.CopyComplete
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV APLIKACIJA.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV APLIKACIJA.pdb
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\EntityFramework.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\EntityFramework.SqlServer.dll
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\EntityFramework.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\bin\EntityFramework.SqlServer.xml
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV_APLIKACIJA.Migrations.InitialCreate.resources
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV APLIKACIJA.csproj.GenerateResource.cache
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV_APLIKACIJA.Migrations.a.resources
+D:\PRO1\MCV APLIKACIJA\MCV APLIKACIJA\obj\Debug\MCV_APLIKACIJA.Migrations.b.resources

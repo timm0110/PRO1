@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCV APLIKACIJA", "MCV APLIKACIJA\MCV APLIKACIJA.csproj", "{553E1F40-B181-405A-9C43-4576A0238307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553E1F40-B181-405A-9C43-4576A0238307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553E1F40-B181-405A-9C43-4576A0238307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553E1F40-B181-405A-9C43-4576A0238307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553E1F40-B181-405A-9C43-4576A0238307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936D7192-2074-48C3-8432-98C600F3DC0D}
+	EndGlobalSection
+EndGlobal
